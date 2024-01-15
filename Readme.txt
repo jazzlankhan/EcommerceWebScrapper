@@ -14,7 +14,7 @@ Getting Started
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/jazzlankhan/EcommerceWebScrapper.git
    ```
 
 2. Install Dependencies:
